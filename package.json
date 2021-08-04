@@ -1,0 +1,24 @@
+{
+  "name": "code-practice-simulator-smm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imaparadox/Code-Practice-Simulator-SMM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imaparadox/Code-Practice-Simulator-SMM/issues"
+  },
+  "homepage": "https://github.com/Imaparadox/Code-Practice-Simulator-SMM#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
